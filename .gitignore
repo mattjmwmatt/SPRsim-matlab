@@ -1,0 +1,33 @@
+# MATLAB generated files
+*.asv
+*.mex*
+*.p
+slprj/
+coder_output/
+
+# MATLAB App Designer auto-generated backup
+*.mlappinstall
+*.prj
+
+# Simulink
+*.slx.bak
+*.slxc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Experimental data (large/licensed .mat files — add manually)
+ExperimentalData/*.mat
+
+# Output / results
+results/
+outputs/
+*.fig
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*~

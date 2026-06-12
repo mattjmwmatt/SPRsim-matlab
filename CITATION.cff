@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: SPRsim-matlab
+message: >-
+  If you use this software in your research, please cite it
+  using the metadata below.
+type: software
+authors:
+  - family-names: Rotta Ribeiro
+    given-names: Matheus
+    affiliation: University of Brasília (UnB)
+repository-code: 'https://github.com/mattjmwmatt/SPRsim-matlab'
+abstract: >-
+  MATLAB App Designer GUI for real-time simulation of Surface Plasmon
+  Resonance (SPR) reflectance curves in Kretschmann-configuration multilayer
+  biosensors using the Transfer Matrix Method (TMM). Supports BK7 glass,
+  titanium adhesion layer, gold thin film, and a tunable biosensor analyte
+  layer with water background.
+keywords:
+  - surface plasmon resonance
+  - SPR biosensor
+  - transfer matrix method
+  - optical simulation
+  - MATLAB
+  - thin films
+  - photonics
+license: MIT
+date-released: '2023-01-22'
