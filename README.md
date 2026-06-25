@@ -10,7 +10,7 @@ A MATLAB App Designer application that simulates SPR reflectance curves for a Kr
 
 | Layer | Material | Tunable |
 |-------|----------|---------|
-| 1 | BK7 Glass Prism (Schott, 0.3–2.5 µm) | — |
+| 1 | BK7 Glass Prism (Schott, 0.3–2.5 µm) | Fixed Schott permittivity |
 | 2 | Titanium adhesion layer (Mash, 0.4–10 µm) | 0–20 nm |
 | 3 | Gold thin film (Yakubovsky 25 nm, 300–2000 nm) | 0–100 nm |
 | 4 | Biosensor base layer | 0 — 20 nm|
