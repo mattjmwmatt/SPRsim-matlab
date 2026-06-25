@@ -11,11 +11,11 @@ A MATLAB App Designer application that simulates SPR reflectance curves for a Kr
 | Layer | Material | Tunable |
 |-------|----------|---------|
 | 1 | BK7 Glass Prism (Schott, 0.3–2.5 µm) | — |
-| 2 | Titanium adhesion layer (Mash, 0.4–10 µm) | ✅ 0–20 nm |
-| 3 | Gold thin film (Yakubovsky 25 nm, 300–2000 nm) | ✅ 0–100 nm |
-| 4 | Biosensor base layer | — |
-| 5 | Biosensor / analyte layer | ✅ 0–200 nm |
-| 6 | Aqueous background | ✅ n = 1–2 RIU |
+| 2 | Titanium adhesion layer (Mash, 0.4–10 µm) | 0–20 nm |
+| 3 | Gold thin film (Yakubovsky 25 nm, 300–2000 nm) | 0–100 nm |
+| 4 | Biosensor base layer | 0 — 20 nm|
+| 5 | Biosensor / analyte layer | 0–200 nm |
+| 6 | Aqueous background | n = 1–2 RIU |
 
 ---
 
@@ -33,7 +33,7 @@ A MATLAB App Designer application that simulates SPR reflectance curves for a Kr
 ## Requirements
 
 - MATLAB R2021a or later (App Designer support)
-- **Toolboxes:** None required beyond base MATLAB
+-  No Toolboxes required beyond base MATLAB
 - The `ExperimentalData/` folder containing:
   - `NBK7SCHOTT.mat`
   - `MashTitanium.mat`
