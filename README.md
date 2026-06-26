@@ -91,8 +91,7 @@ SPRsim-matlab/
 
 ## Theory
 
-The simulation models a lossy multilayer system <img width="987" height="653" alt="spr_sim_screenshot" src="https://github.com/user-attachments/assets/d15c25d2-b810-4152-8f30-59b6d6e5f11c" />
-for TM-polarised light, following:
+The simulation models a lossy multilayer system for TM-polarised light, following:
 
 > Orfanidis, S. J. *Electromagnetic Waves and Antennas*, Ch. 8.2 — Lossy Multilayer Systems.
 
