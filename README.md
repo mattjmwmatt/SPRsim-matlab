@@ -5,6 +5,7 @@
 A MATLAB App Designer application that simulates SPR reflectance curves for a Kretschmann-configuration biosensor using the **Transfer Matrix Method (TMM)**. Users can interactively tune layer thicknesses and optical constants in real time via sliders.
 
 ---
+<img width="987" height="653" alt="spr_sim_screenshot" src="https://github.com/user-attachments/assets/b846c601-e663-403d-8684-60cfd7f22cdd" />
 
 ## Multilayer Structure
 
@@ -90,7 +91,8 @@ SPRsim-matlab/
 
 ## Theory
 
-The simulation uses the **Transfer Matrix Method** for TM-polarised light, following:
+The simulation models a lossy multilayer system <img width="987" height="653" alt="spr_sim_screenshot" src="https://github.com/user-attachments/assets/d15c25d2-b810-4152-8f30-59b6d6e5f11c" />
+for TM-polarised light, following:
 
 > Orfanidis, S. J. *Electromagnetic Waves and Antennas*, Ch. 8.2 — Lossy Multilayer Systems.
 
